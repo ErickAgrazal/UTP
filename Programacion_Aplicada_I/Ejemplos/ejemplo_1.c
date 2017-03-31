@@ -1,8 +1,7 @@
 // Nombre: ejemplo_1.c
 // Por: Erick Agrazal
-// Descripción: Hello world
+// Descripción: Escribir un pograma que imprima `Hello World`.
 #include <stdio.h>
-
 
 int main(){
   /* Mi primer programa en C! */
