@@ -1,9 +1,9 @@
 // Nombre: ejemplo_6.c
 // Por: Erick Agrazal
 // Descripción: Escribir un programa que lea 10 notas [USANDO ARREGLOS]. Imprima esas cantidades.
-//              Además de su promedio, si el promedio es mayor a 71:
+//              Además de su promedio, dependiendo de la nota, imprimir A, B, C, D, F:
 //              Imprimir:
-//                  - `Felicidades, has aprobado el curso. Su nota fue de <nota>.`,
+//                  - `Felicidades, has aprobado el curso. Su nota fue de <nota>.`, [EN EL CASO DE A]
 //                  -  de caso contrario, imprimir `Lo siento, has reprobado el curso. Su nota fue de <nota>.`,
 #include <stdio.h>
 
