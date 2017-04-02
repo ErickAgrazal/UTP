@@ -1,8 +1,8 @@
-// Nombre: ejemplo_3.c
+// Nombre: ejemplo_4.c
 // Por: Erick Agrazal
-// Descripción: Escribir un programa que lea 3 cantidades
-//              que imprima esas cantidades además
-//              de su promedio.
+// Descripción: Escribir un programa que lea 10 cantidades
+//              [USANDO ARREGLOS]. Imprima esas cantidades
+//              además de su promedio.
 #include <stdio.h>
 
 int main(){
