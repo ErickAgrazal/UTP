@@ -1,4 +1,4 @@
-// Nombre: ejemplo_7.c
+// Nombre: ejemplo_funciones.c
 // Por: Erick Agrazal
 // Descripción: Alcance de Variables
 #include <stdio.h>
