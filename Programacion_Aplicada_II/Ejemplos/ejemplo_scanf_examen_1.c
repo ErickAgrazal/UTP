@@ -1,3 +1,8 @@
+// Nombre: ejemplo_scanf_examen_1.c
+// Por: Erick Agrazal
+// Descripción: Escribir un programa que lea
+//              de manera variable una cantidad de
+//              estudiantes.
 #include <stdio.h>
 
 int main() {
