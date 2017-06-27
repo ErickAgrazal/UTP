@@ -1,4 +1,3 @@
-
 // Nombre: ejemplo_11.c
 // Por: Erick Agrazal
 // Descripción: Escribir un programa que lea números de una matriz NxN, donde N esta definido entre 0 < N <= 5.

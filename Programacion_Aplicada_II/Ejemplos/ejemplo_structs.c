@@ -13,7 +13,7 @@ int main() {
   strcpy(primer_estudiante.nombre, "Erick Agrazal");
   primer_estudiante.nota = 91;
 
-  imprimir_estudiante(primer_estudiante);
+  // imprimir_estudiante(primer_estudiante);
 
   printf("Fuera de la funcion.\n");
   printf("El estudiante es: %s\n", primer_estudiante.nombre);

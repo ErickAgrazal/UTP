@@ -1,4 +1,4 @@
-// Nombre: ejemplo_11.c
+// Nombre: ejemplo_13.c
 // Por: Erick Agrazal
 // Descripción: Escribir un programa que lea 2 enteros cambie el contenido
 //              de esas dos variables.
